@@ -37,6 +37,12 @@ A modern, feature-rich expense tracking web application built with React, TypeSc
 - **Modern UI** - Clean, gradient-based design with intuitive navigation
 - **Dual View Modes** - Switch between Overview and Analytics tabs
 
+## 📸 Screenshots
+(<img width="1901" height="858" alt="Screenshot 2026-02-11 235146" src="https://github.com/user-attachments/assets/a49d6500-8320-43b9-bedb-f6ef952b3d71" />)
+<img width="1881" height="861" alt="Screenshot 2026-02-11 235423" src="https://github.com/user-attachments/assets/b21f59a9-3a0d-4f32-9e34-94518b34727d" />
+<img width="1880" height="853" alt="Screenshot 2026-02-11 235453" src="https://github.com/user-attachments/assets/2e0c01e2-ef9d-4adf-94fd-ffaef00ff358" />
+<img width="1885" height="860" alt="Screenshot 2026-02-11 235517" src="https://github.com/user-attachments/assets/ec45775d-851e-4a82-8c77-d3a1d50e90aa" />
+
 ## 🚀 Getting Started
 
 ### Prerequisites
