@@ -142,16 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Your Name
-- GitHub: [tanvibeer12](https://github.com/yourusername)
-- Website: [yourwebsite.com](https://yourwebsite.com)
-
-## 🙏 Acknowledgments
-
-- Icons by [Lucide](https://lucide.dev/)
-- Charts by [Recharts](https://recharts.org/)
-- Design inspiration from modern fintech apps
-
----
+- GitHub: [tanvibeer12](https://github.com/tanvibeer12)
 
 **Note**: This application stores all data locally in your browser. No data is sent to external servers, ensuring complete privacy of your financial information.
 
