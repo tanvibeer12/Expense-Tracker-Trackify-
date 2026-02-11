@@ -2,7 +2,8 @@
 
 A modern, feature-rich expense tracking web application built with React, TypeScript, and Tailwind CSS. Track, analyze, and optimize your spending habits with beautiful visualizations and comprehensive budget management.
 
-![Trackify](https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=400&fit=crop)
+<img width="1901" height="858" alt="Screenshot 2026-02-11 235146" src="https://github.com/user-attachments/assets/eb0bfefc-35a7-49a8-a791-604952d3b953" />
+
 
 ## ✨ Features
 
